@@ -1,11 +1,11 @@
 # Electric Vehicles Data Analysis Dashboard
 This Tableau dashboard provides a comprehensive analysis of the Electric Vehicle (EV) market, focusing on:
 
-**Top-selling EV models & their manufacturers**
-**Regional sales distribution**
-**EV type segmentation (BEV vs. PHEV)**
-**Alternative fuel vehicle adoption trends**
-**The dashboard helps identify which EV models are most popular, their market penetration across regions, and factors influencing EV adoption.**
+**[Top-selling EV models & their manufacturers]**
+**[Regional sales distribution]**
+**[EV type segmentation (BEV vs. PHEV)]**
+**[Alternative fuel vehicle adoption trends]**
+**[The dashboard helps identify which EV models are most popular, their market penetration across regions, and factors influencing EV adoption.]**
 
 ## Files Included  
 **📂 [Electric Vehicles Data Analysis Dashboard.twbx](Tableau Packaged Workbook)** |  
