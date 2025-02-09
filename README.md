@@ -10,7 +10,7 @@ This Tableau dashboard provides a comprehensive analysis of the Electric Vehicle
 
 ## Files Included  
 **📂 [Electric Vehicles Data Analysis Dashboard.twbx](Tableau Packaged Workbook)** |  
-  🖼️ **[ELECTRIC VEHCLIES ](Preview image of Dashboard)** |  
+  🖼️ **[ELECTRIC VEHCLIES DATA ANALYSIS.png](Preview image of Dashboard)** |  
   📊 **[Electric_Vehicles_Population_Data.zip](dataset folder)**
 
 
