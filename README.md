@@ -1,9 +1,11 @@
 # Electric Vehicles Data Analysis Dashboard
 
 #Files Included
--Electic Vehicles Data analysis dashboard.twbx → Tableau Packaged Workbook
--ELECTRIC VEHICLES DATA ANALYSIS.png → Preview image of the dashboard
--Electric_Vehicles_Population_Data.zip → Contants dataset used in analysis
+## Files Included  
+**📂 [Electric Vehicles Data Analysis Dashboard.twbx](Tableau Packaged Workbook)** |  
+  🖼️ **[ELECTRIC VEHICLES DATA ANALYSIS.png](Preview image of Dashboard)** |  
+  📊 **[Electric_Vehicles_Population_Data.zip](dataset folder)**
+
 
 # View the Dashboard  
 🔗 Tableau Public Link: https://public.tableau.com/views/ElectricVehiclesDataanalysisdashboard/ELECTRICVEHICLESDATAANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
